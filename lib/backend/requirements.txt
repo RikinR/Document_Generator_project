@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-pptx
+nbconvert
+nbformat
+pytest
+pytest-asyncio
+python-multipart
+html2image
